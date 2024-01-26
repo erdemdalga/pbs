@@ -26,7 +26,8 @@
 10、token是需要放在head头部。
 
 ## 接口权限获取
-请登陆 [https://pbs.yun2.net](https://pbs.yun2.net)
+
+请登陆 [https://pbs.net.cn](https://pbs.net.cn)
 
 ## 获取token
 说明：
